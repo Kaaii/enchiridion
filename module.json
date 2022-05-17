@@ -14,7 +14,7 @@
   ],
   "packs": [],
   "url": "https://github.com/Kaaii/enchiridion",
-  "manifest": "https://github.com/Kaaii/enchiridion/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Kaaii/enchiridion/main/module.json",
   "download": "https://github.com/Kaaii/enchiridion/releases/download/v0.1/enchiridion.zip",
   "minimumCoreVersion": "0.9.0",
   "compatibleCoreVersion": "0.10.0",

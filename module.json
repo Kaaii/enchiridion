@@ -13,9 +13,9 @@
     "./enchiridion-style.css"
   ],
   "packs": [],
-  "url": "https://github.com/reggiebritten/Enchiridion/tree/main/enchiridion",
-  "manifest": "https://github.com/reggiebritten/Enchiridion/main/enchiridion/module.json",
-  "download": "https://github.com/reggiebritten/Enchiridion/releases/download/prototype/enchiridion.zip",
+  "url": "https://github.com/Kaaii/enchiridion",
+  "manifest": "https://github.com/Kaaii/enchiridion/blob/main/module.json",
+  "download": "https://github.com/Kaaii/enchiridion/releases/download/v0.1/enchiridion.zip",
   "minimumCoreVersion": "0.9.0",
   "compatibleCoreVersion": "0.10.0",
   "authors": [],
